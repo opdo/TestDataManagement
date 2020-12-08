@@ -1,0 +1,13 @@
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\bin\Debug\TestDataManagement.exe.config
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\bin\Debug\TestDataManagement.exe
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\bin\Debug\TestDataManagement.pdb
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.csprojAssemblyReference.cache
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.Forms.ManageTestcase.resources
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.Properties.Resources.resources
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.csproj.GenerateResource.cache
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.csproj.CopyComplete
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.exe
+C:\Users\vinhp\Desktop\Fsoft\TestDataManagement\obj\Debug\TestDataManagement.pdb
